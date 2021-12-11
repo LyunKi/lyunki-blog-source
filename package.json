@@ -9,13 +9,14 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "debug": "hexo s --debug",
-    "cicd": "hexo hexo g -d"
+    "cicd": "hexo g -d"
   },
   "hexo": {
     "version": "5.4.0"
   },
   "dependencies": {
     "hexo": "^5.0.0",
+    "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",

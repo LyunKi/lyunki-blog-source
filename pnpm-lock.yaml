@@ -2,6 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   hexo: ^5.0.0
+  hexo-deployer-git: ^3.0.0
   hexo-generator-archive: ^1.0.0
   hexo-generator-category: ^1.0.0
   hexo-generator-index: ^2.0.0
@@ -15,6 +16,7 @@ specifiers:
 
 dependencies:
   hexo: registry.npmmirror.com/hexo/5.4.0
+  hexo-deployer-git: registry.npmmirror.com/hexo-deployer-git/3.0.0
   hexo-generator-archive: registry.npmmirror.com/hexo-generator-archive/1.0.0
   hexo-generator-category: registry.npmmirror.com/hexo-generator-category/1.0.0
   hexo-generator-index: registry.npmmirror.com/hexo-generator-index/2.0.0
@@ -596,6 +598,34 @@ packages:
       minimist: registry.nlark.com/minimist/1.2.5
       resolve: registry.nlark.com/resolve/1.20.0
       tildify: registry.npmmirror.com/tildify/2.0.0
+    dev: false
+
+  registry.nlark.com/hexo-fs/3.1.0:
+    resolution: {integrity: sha1-IFL/csaM2ixXeoeqDqeYCuUD+pk=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/hexo-fs/download/hexo-fs-3.1.0.tgz}
+    name: hexo-fs
+    version: 3.1.0
+    engines: {node: '>=10.13.0'}
+    dependencies:
+      bluebird: registry.nlark.com/bluebird/3.7.2
+      chokidar: registry.npmmirror.com/chokidar/3.5.2
+      graceful-fs: registry.npmmirror.com/graceful-fs/4.2.8
+      hexo-util: registry.nlark.com/hexo-util/2.5.0
+    dev: false
+
+  registry.nlark.com/hexo-util/2.5.0:
+    resolution: {integrity: sha1-3lY1NBEWuiVjp4mg6861WodSIa0=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/hexo-util/download/hexo-util-2.5.0.tgz}
+    name: hexo-util
+    version: 2.5.0
+    engines: {node: '>=12.4.0'}
+    dependencies:
+      bluebird: registry.nlark.com/bluebird/3.7.2
+      camel-case: registry.nlark.com/camel-case/4.1.2
+      cross-spawn: registry.nlark.com/cross-spawn/7.0.3
+      deepmerge: registry.nlark.com/deepmerge/4.2.2
+      highlight.js: registry.npmmirror.com/highlight.js/10.7.3
+      htmlparser2: registry.npmmirror.com/htmlparser2/6.1.0
+      prismjs: registry.nlark.com/prismjs/1.25.0
+      strip-indent: registry.nlark.com/strip-indent/3.0.0
     dev: false
 
   registry.nlark.com/html-encoding-sniffer/2.0.1:
@@ -1587,6 +1617,22 @@ packages:
     resolution: {integrity: sha1-5BK40z9eAGWTy9PO5t+fLOu+gCo=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/graceful-fs/download/graceful-fs-4.2.8.tgz}
     name: graceful-fs
     version: 4.2.8
+    dev: false
+
+  registry.npmmirror.com/hexo-deployer-git/3.0.0:
+    resolution: {integrity: sha1-2oL3o0Rd8rITkm3I0DC6VJm2jPM=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/hexo-deployer-git/download/hexo-deployer-git-3.0.0.tgz}
+    name: hexo-deployer-git
+    version: 3.0.0
+    engines: {node: '>=8.6.0'}
+    dependencies:
+      bluebird: registry.nlark.com/bluebird/3.7.2
+      chalk: registry.npmmirror.com/chalk/4.1.2
+      hexo-fs: registry.nlark.com/hexo-fs/3.1.0
+      hexo-util: registry.nlark.com/hexo-util/2.5.0
+      moment: registry.npmmirror.com/moment/2.29.1
+      nunjucks: registry.npmmirror.com/nunjucks/3.2.3
+    transitivePeerDependencies:
+      - chokidar
     dev: false
 
   registry.npmmirror.com/hexo-front-matter/2.0.0:
