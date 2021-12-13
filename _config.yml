@@ -8,7 +8,9 @@ subtitle: ''
 description: ''
 keywords:
 author: LyunKi
-language: zh
+language: 
+  - zh-CN
+  - en
 timezone: ''
 
 # URL
