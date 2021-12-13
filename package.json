@@ -6,10 +6,9 @@
     "preinstall": "npx only-allow pnpm",
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "deploy": "hexo clean && hexo g -d",
     "server": "hexo server",
-    "debug": "hexo s --debug",
-    "cicd": "hexo g -d"
+    "debug": "hexo s --debug"
   },
   "hexo": {
     "version": "5.4.0"
