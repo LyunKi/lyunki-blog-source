@@ -127,9 +127,9 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: #/images/avatar.gif
+  url: /images/avatar.jpg
   # If true, the avatar will be displayed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -472,6 +472,7 @@ exturl_icon: true
 # Google Webmaster tools verification.
 # See: https://developers.google.com/search
 google_site_verification: GciMTCToFpfx_jrDRbA4nFr_95746kdNdKy4uvKd4Ks
+
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmasters
