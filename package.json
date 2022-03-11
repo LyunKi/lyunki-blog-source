@@ -25,6 +25,6 @@
     "hexo-theme-next": "^8.8.2",
     "hexo-word-counter": "^0.0.3",
     "hexo-generator-baidu-sitemap": "^0.1.9",
-    "hexo-generator-sitemap": "^2.2.0"
+    "hexo-generator-sitemap": "^3.0.0"
   }
 }
