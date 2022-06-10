@@ -22,3 +22,9 @@ git config core.ignorecase false
 [core]
 	ignorecase = false
 ```
+
+3. 删除 git 文件
+
+```
+git rm --cached xxxx
+```
