@@ -18,4 +18,20 @@ function open([string]$path){
 }
 ```
 
-## todo...
+## 环境变量
+
+读取和设置环境变量，这里直接在机器级别进行，方便后续账号切换后，配置依然生效。
+
+```powershell
+function getEnv([string]$key) {
+    [Environment]::GetEnvironmentVariable("$key", [EnvironmentVariableTarget]::Machine)
+}
+
+# 只添加不修改，方便回退
+function setEnv([string]$key,[string]$value) {
+    [Environment]::SetEnvironmentVariable(
+        "$key",
+        [Environment]::GetEnvironmentVariable("$key", [EnvironmentVariableTarget]::Machine) + ";$value",
+        [EnvironmentVariableTarget]::Machine)
+}
+```
