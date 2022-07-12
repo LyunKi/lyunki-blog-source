@@ -34,4 +34,14 @@ function setEnv([string]$key,[string]$value) {
         [Environment]::GetEnvironmentVariable("$key", [EnvironmentVariableTarget]::Machine) + ";$value",
         [EnvironmentVariableTarget]::Machine)
 }
+
+# 因为 set 的时候只做了添加，为了防止重复，这里清理重复的 path
+function cleanPath(){
+    $CurrentPath = [Environment]::GetEnvironmentVariable('Path','Machine')
+    $SplittedPath = $CurrentPath -split ';'
+    $CleanedPath = $SplittedPath | Sort-Object -Unique
+    $NewPath = $CleanedPath -join ';'
+    [Environment]::SetEnvironmentVariable('Path', $NewPath,'Machine')
+    echo "complete clean"
+}
 ```
