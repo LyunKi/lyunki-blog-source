@@ -45,3 +45,13 @@ function cleanPath(){
     echo "complete clean"
 }
 ```
+
+### 删除
+
+powershell 本身提供了 remove-item 命令，这里做一个简单的映射到 rm 即可，虽然没有 -rf，但可以通过 -Recursive 和 -Force 来代替，并且即使没有传入 Flag ，也会有一个友好的交互提示如何进行下一步
+
+```
+function rm([string]$path){
+    remove-item $path
+}
+```
