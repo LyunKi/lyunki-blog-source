@@ -38,3 +38,32 @@ ingenuity: You see the ingenuity of the phrasing
 pertinent: a pertinent question.
 generosity: acts of generosity.
 detain: a man has been detained for questioning.
+
+## 2022/08/24
+
+elect: the persident elect
+handy: a handy little tool.
+colleague: a colleague of mine from the office
+handsome: a handsome fee
+college: college compuses
+diligent: a diligent student
+collect: 
+handwriting: I can't read his handwriting
+neglect: a neglected garden
+election: to vote in an election
+handkerchief: He took out a handkerchief and blew his noise.
+intelligence: intelligence reports
+handful: a handful of rice
+intelligent: an intelligent question
+handle: a broom handle
+shorthand: a shorthand typist
+intellect: a man of considerable intellect
+handicap: mental handicap
+beforehand: I wish we'd known about it beforehand.
+negligible: a negligible amount
+handbook: None of them has got a handboox to tourists.
+eligant: an eligant dress
+handout: a cash handout
+second-hand: a second-hand computer
+sustain: a sustain attack
+
