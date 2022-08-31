@@ -47,7 +47,7 @@ colleague: a colleague of mine from the office
 handsome: a handsome fee
 college: college compuses
 diligent: a diligent student
-collect: 
+collect:
 handwriting: I can't read his handwriting
 neglect: a neglected garden
 election: to vote in an election
@@ -68,6 +68,7 @@ second-hand: a second-hand computer
 sustain: a sustain attack
 
 ## 2022/08/30
+
 sound: the sounds of children playing
 contain: The 77,000-acre estate contains five of the highest peaks in Scotland
 domestic: sales in the domestic market
@@ -86,7 +87,7 @@ I had to take the `herb` tea although it's bitter.
 freshly ground black `pepper`.
 Launch was a `snack` in the fields.
 their physical `characteristics`.
-Our sniper teams `observed` theme manning an anti-aircraft gun. 
+Our sniper teams `observed` theme manning an anti-aircraft gun.
 The historic building is as much part of our `heritage` as the paintings.
 The most valuable `item` on show will be a Picasso drawing.
 It's plain that he adores his daughter, and the feeling is `mutual`.
@@ -100,7 +101,7 @@ I'd dropped a `hint` about havingd an exhibition of his work up here.
 The term 'special needs' covers a wide `spectrum` of problems.
 ...the last `decade` of the nineteenth century.
 ...a `veh.icle` which was somewhere between a tractor and a truck.
-These plants have a tendency to grow in the more `rur.al` areas.
+These plants have a tendency to grow in the more `rural` areas.
 ...a stair way in the `rear` of the building.
 All these brightly coloured `hybrid` are so lovely in the garden.
 This provided a pretext for the `author.ities` to cancel the elections.
@@ -112,3 +113,36 @@ A `proportion` of the rent is met by the city council.
 There are calls for his resignation, but there is no sign yet that he will `com.ply`
 ...his constant desire to `innovate` and experiment.
 The `apportionment` of government budget is very complicated.
+
+## 2022/08/31
+
+He eventually rose to the `rank` of captain.
+Everything had been stitched by Molly's `nimble` fingers.
+It was George who first `proposed` that we dry clothes in that locker.
+Jenny's writing a film `script`.
+...a great `deal` of money.
+...traditional French cuisine.
+I packed and said goodbye to Charlie.
+`Exprosure` to lead is known to damage the brains of young children.
+...a pudding `basin`.
+He was not interested in a `romantic` relationship with Ingrid.
+They'll spend some time `floating` boats in the creek.
+...the snipers and artillerymen in the `surrounding` hills.
+His picture was `superimposed` on a muscular body.
+The signals are sent by `satelltie` link.
+Peel away the `sticky` paper.
+...the Persident's Council, which `ensure` the supermacy of the National Party.
+The `observatory` is mostly located on a mountaintop.
+He gave a great performance, but he was very `humble`.
+...people with `inherited` wealth.
+The show is very amusing and the `cast` are very good.
+He peered at the `label` on the bottle.
+...bottles of hair `dye`.
+...an international agreement aimed at halting the `destrutction` of the ozone layer.
+His threats become more `intense`, agitated and frequent.
+People can feel the `vibration` hundreds of miles from the centre of the earthquake.
+They watched the dodgem cars bang and `bounce`.
+The country's economic problems are largely `due` to the weakness of the recovery.
+We now have a Europe without `internal` borders.
+U.K. companies face a `stark` choice if they want to stay competitive.
+Silk was used with wool for `contrast`.
