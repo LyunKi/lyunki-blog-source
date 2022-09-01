@@ -146,3 +146,18 @@ The country's economic problems are largely `due` to the weakness of the recover
 We now have a Europe without `internal` borders.
 U.K. companies face a `stark` choice if they want to stay competitive.
 Silk was used with wool for `contrast`.
+
+## 2022/09/01
+
+Many of these problems can be `minimized` by sensitive planning.
+`Spning` is a basic skill of ancient Chinese woman.
+The missiles missed their `target`.
+He pleaded not guilty to murdering his `former` wife.
+...a `curve` in the road.
+The volcano spewed a `fountain` of molten rock 650 feet in the air.
+He stood on the `podium` and the audience burst into applause.
+I `grabbed` him by the neck.
+Cataract operations are a `triumph` of modern surgy, with a success rate of more than 90 percent.
+...a `bronze` statue of Giorgi Dimitrov.
+A courier was despatched with two `sealed` envelopes.
+The famous athlete won his second gold `medal` in the Olympics Games.
