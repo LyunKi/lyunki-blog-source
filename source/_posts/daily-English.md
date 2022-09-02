@@ -161,3 +161,17 @@ Cataract operations are a `triumph` of modern surgy, with a success rate of more
 ...a `bronze` statue of Giorgi Dimitrov.
 A courier was despatched with two `sealed` envelopes.
 The famous athlete won his second gold `medal` in the Olympics Games.
+
+## 2022/09/02
+
+if there is a `lack` of something,there is not enough of it or it dosen't exist at all.
+adj. if something is of `medium` size, it is neither large or small, but approximately half way between the two.
+n.[C] The `impact` that something has on a situation,process,or person is a sudden and powerful effect that it has on them.
+adj. Something that is `popular` is enjoyed by a lot of person.
+adj. `Traditional` customs,beliefs of methods are onese that existed for a long time without changing.
+n.A `material` is a solid substance.
+n.[U] Your `status` is your social or professional position.
+v. If you `carve` an object,you make it by cutting out a substance such as wood or stone
+adj. `Dim` light is not bright.
+n.[C] An `immigrant` is a person who has come to live in a country from some other country.
+adj. `Indigenous` people or things belong to the country in which they are found.
