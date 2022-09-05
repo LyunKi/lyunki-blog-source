@@ -175,3 +175,31 @@ v. If you `carve` an object,you make it by cutting out a substance such as wood 
 adj. `Dim` light is not bright.
 n.[C] An `immigrant` is a person who has come to live in a country from some other country.
 adj. `Indigenous` people or things belong to the country in which they are found.
+
+## 2022/09/05
+
+n.[C] A `snack` is a simple meal that is quick to cook and to eat.
+n.[U] `Transport` refers to any vehicle that you can travel in or carry goods in.
+n.[C] A `Track` is a narrow road or path.
+n.[C] A `proportion` of a group or an amount is part of it.
+n.[C] The `debut` of a performer or sports player is the first public performance, appearnce, or recording.
+The `apportionment` of government budget is very complicated.
+phrase. If an event is `due to` someting, ot happens or exists as a directr result of that thing
+A `hybrid` is an animal or plant that has been bred from two different species of animal or plant.
+adj. `Internal` is used to describe things that exist or happen inside a country or organization.
+v. When an object such as a ball `bounces` or when you bounce it, it moves upwards from a surface or away from it immdiately after hiting it.
+n.[SING] The `rear` of something such as a building or vehicle is the back part of it.
+n.[C] A `decade` is a period of ten years, especially one that begins with a year ending in 0, for example 1980 to 1989.
+n.[PL] The authorities are the person who have the power to make decisions and to make sure that laws are obeyed.
+adj. `Indigenous` people or things belong to the country in which they are found,rather than coming or being brought there from another country.
+n.[C] A `switch` is a small control for an electrical device which you used to turn the device on or off.
+n.[C] A `hammer` is a tool that consists of a heavy piece of metal at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall, or to break things into pieces.
+n.[VAR] `Ceramic` is clay that has been heated to a very high temperature so that it becomes hard.
+n.[C] A `slice` of bread, meat, fruit, or other food is a thin piece that has been cut from a larger piece.
+v. When you purchase something, you buy it.
+adj. `Annual` events happen once every year.
+n.[C] A `crab` is a sea creature with a float round body covered by a shell, and five pairs of legs with large claws on the front pair. Crabs usually move sideways.
+v. If you `sprinkle` a thing with something suce as a liquid or powder,you scatter the liquid or powder over it.
+n.[C] A `feast` is a large and special meal.
+adj. Someone who is `male` is a man or a boy.
+n.[C] A `household` is all the people in a family or group who live together in a house.
