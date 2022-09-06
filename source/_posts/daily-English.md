@@ -203,3 +203,27 @@ v. If you `sprinkle` a thing with something suce as a liquid or powder,you scatt
 n.[C] A `feast` is a large and special meal.
 adj. Someone who is `male` is a man or a boy.
 n.[C] A `household` is all the people in a family or group who live together in a house.
+
+## 2022/09/06
+
+phrase. If you do something with `ease`, you do it easily, without difficult or effort.
+n.[VAR] A `contrast` is a great difference between two or more things whic is clear when you compare them.
+n.[C] A `solution` to a problem or difficult is a way of dealing with it so that the difficulty is removed
+n.[C] A `spacecraft` is a rocket or other vehicle that can travel in space.
+n.[C] A `brand` of product is the version of it that is made by one particular manufacturer.
+n.[VAR] If there is a `chance` of something happening, it is possible that it will happen.
+n.[U] Destruction is the act of destroying something, or the state of being destroyed.
+v. When something `occurs`, it happens.
+adj. If something is `stable`,it is not likely to change or come to an end suddenly.
+adj. You use `severe` to indicate that something bad or undesirable is great or intense.
+v. If something `absorbs` a liquid, gas , or other substance,it soaks it up or takes it in. adj.
+adj. `Stark` choices or statesments are harsh and unpleasant.
+adj. An `apparent` situation,quality, or feeling seems to exist, although you cannot be certain that it dose exist.
+n.[C] `Ceramics` are ceramic ornaments or objects.
+n.[U] `Comedy` consists of types of entertainment, such as plays and films or particular scenes in them,that are indended to make people laugh.
+n.[U] `Revenue` is money that a company, organization, or government receives from people.
+adj. If something is `unprecedented`, it has never happened before.
+adj. A `lucrative` activity, job, or business deal is very profitable.
+adj. Someone who is `prominent` is important.
+n.[U] `Accounting` is the activity of keeping detailed records of the amounts of money a business or person receives and spends.
+n.[C] You can refer to a level on a scale of measurement or achievement as a `notch`.
