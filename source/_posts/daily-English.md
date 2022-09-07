@@ -227,3 +227,20 @@ adj. A `lucrative` activity, job, or business deal is very profitable.
 adj. Someone who is `prominent` is important.
 n.[U] `Accounting` is the activity of keeping detailed records of the amounts of money a business or person receives and spends.
 n.[C] You can refer to a level on a scale of measurement or achievement as a `notch`.
+
+## 2022/09/07
+
+adv. If you say that something `normally` happens or that you normally do a particular thing, you mean that it is what usually happens or what you **usually** do.
+n.[C] An `accord` between countries or groups of people is a formal agreement, for example to end a war.
+n.[C] A `representative` is a person who has been chosen to act or make decisions **on behalf of** another person or a group of people.
+adj. If you describe an amount, especially the cost of something as `astronomical`, you are emphasizing that is very large indeed.
+v. If something `relates` to a particular subject, it concerns that subject.
+v. If you `shift` something or if it shifts, it moves slightly.
+v. If you `swoon`, you are strongly affected by your feelings for someone you love or admire very much.
+v. If you `imply` that something is the case, you say something which indicates that it is the case in an direct way.
+n.[U] `Consideration` is careful thought about something.
+v. If something `obsesses` you or if you obsess about something, you keep thinking it and find it difficult to think about anything else.
+n.[C] A `shed` is a small building that is used for storing things such as garden tools.
+n.[U] `Concern` is worry about a situation.
+n.[C] An `issue` is an important subject that people are arguing about or discussing.
+n.[VAR] An `opportunity` is a situation in which it is possible for you to do something that you want to do.
