@@ -244,3 +244,22 @@ n.[C] A `shed` is a small building that is used for storing things such as garde
 n.[U] `Concern` is worry about a situation.
 n.[C] An `issue` is an important subject that people are arguing about or discussing.
 n.[VAR] An `opportunity` is a situation in which it is possible for you to do something that you want to do.
+
+## 2022/09/08
+
+v. If you `resume` an activity or if it resumes, it begins again.
+v. If people `propagate` an idea or piece of information, they spread it and try to make people believe it or support it.
+n.[C] A `translation` is a piece of writing or speech that has been translated from a different language.
+prep. Besides something means in addition to it.
+v. To `demonstrate` a fact means to make it clear to people.
+adj. Something that is `essential` is extremely important or absolutely neccessary to a particular subject, situation or activity.
+n.[U] `Oxygen` is a colourless gas that exists in large quantities in the air. All plants and animals need oxygen to live.
+n.[SING] If you refer to the `scale` of something,you are refering to its size or extent especially when it is very big.
+n.[C] A `broadcast` is a programme, performance, or speech on the radio or on television.
+v. To `emergy` means to come out from an enclosed or dark space such as a room or a vehicle, or from a position where you could not be seen.
+n.[U] If something is done for your `convenience`, it is done in a way that is useful or suitable for you.
+v. If you `stumble`, you put your foot down awkwardly while you are walking or running and nearly fall over.
+v. If you `appeal` to someont to do something, you make a serious and urgent request to them.
+adj. Something that is `effective` works well and produces the result that were intended.
+n.[C] A `channel` is a television station.
+n.[C] `Beverages` are drinks.
