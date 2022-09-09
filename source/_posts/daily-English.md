@@ -263,3 +263,18 @@ v. If you `appeal` to someont to do something, you make a serious and urgent req
 adj. Something that is `effective` works well and produces the result that were intended.
 n.[C] A `channel` is a television station.
 n.[C] `Beverages` are drinks.
+
+## 2022/09/09
+
+n.[C] You can refer to the most powerful, rich, or talented people within a particular group, place, or society as the `elite`.
+n.[VAR] A `sauce` is a thick liquid which is served with other food.
+n.[C] The `residents` of a house or area are the people who live there.
+adj. `Ethnic` means connected with or relating to different racial or culture groups of people.
+adj. Something that is an `integral` part of something is essential part of that thing.
+adj. A `steep` slope rises at a very sharp angle and is difficult to go up.
+adj. You use `divine` to describe something that is provided by or relates to a god or goddess.
+n.[C] A `rendition` of a play, poem, or piece of music is a performance of it.
+v. If you `leap`, you jump hight in the air or jump a long distance.
+n.[C] When there is a `strike`, workers stop doing their work for a period of time, usually in order to try to get better pay or conditions for themeselves.
+adj. `Molten` rock, metal or glass has been heated to a very high temperature and has been a hot, thick liquid.
+adj. Something that is `sour` has a sharp, unpleasant taste like the taste of a lemon.
