@@ -196,7 +196,7 @@ n.[C] A `switch` is a small control for an electrical device which you used to t
 n.[C] A `hammer` is a tool that consists of a heavy piece of metal at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall, or to break things into pieces.
 n.[VAR] `Ceramic` is clay that has been heated to a very high temperature so that it becomes hard.
 n.[C] A `slice` of bread, meat, fruit, or other food is a thin piece that has been cut from a larger piece.
-v. When you purchase something, you buy it.
+v. When you `purchase` something, you buy it.
 adj. `Annual` events happen once every year.
 n.[C] A `crab` is a sea creature with a float round body covered by a shell, and five pairs of legs with large claws on the front pair. Crabs usually move sideways.
 v. If you `sprinkle` a thing with something suce as a liquid or powder,you scatter the liquid or powder over it.
@@ -278,3 +278,19 @@ v. If you `leap`, you jump hight in the air or jump a long distance.
 n.[C] When there is a `strike`, workers stop doing their work for a period of time, usually in order to try to get better pay or conditions for themeselves.
 adj. `Molten` rock, metal or glass has been heated to a very high temperature and has been a hot, thick liquid.
 adj. Something that is `sour` has a sharp, unpleasant taste like the taste of a lemon.
+
+## 2022/09/13
+
+v. To `innovate` means to introduce changes and new ideas in the way something is done or made.
+v. To `propel` something in a particular direction means to cause it to move in that direction.
+adj. `Rural` places are far away from large town or cities.
+n.[C] An `undergraduate` is a student at a university or college who is studying for his or her first degree.
+n.[VAR] The `landscape` is everything you can see when you look across an area of land including hills, rivers, buildings, trees, and plants.
+adj. Something that is `handy` is useful.
+n.[U] `Expertise` is special skill or knowledge that is acquired by training, study or practice.
+v. If you `hop`, you move along by jumping on one foot.
+n.[C] A `compus` is an area of land that contains the main buildings of a university or college.
+n.[C] A `league` is a group of people, clubs, or countries that have joined together for a particular purpose, of because they share a common interest.
+n.[VAR] If there is a `shortage` of something, there is not enough of it.
+n.[C] A `vice` is a habit which is regarded as a weakness in someone's character, but not usually as a serious fault.
+n.[VAR] A `legend` is a very old and popular story that may be true.
