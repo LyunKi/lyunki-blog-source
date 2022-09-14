@@ -137,7 +137,6 @@ He gave a great performance, but he was very `humble`.
 ...people with `inherited` wealth.
 The show is very amusing and the `cast` are very good.
 He peered at the `label` on the bottle.
-...bottles of hair `dye`.
 ...an international agreement aimed at halting the `destrutction` of the ozone layer.
 His threats become more `intense`, agitated and frequent.
 People can feel the `vibration` hundreds of miles from the centre of the earthquake.
@@ -294,3 +293,17 @@ n.[C] A `league` is a group of people, clubs, or countries that have joined toge
 n.[VAR] If there is a `shortage` of something, there is not enough of it.
 n.[C] A `vice` is a habit which is regarded as a weakness in someone's character, but not usually as a serious fault.
 n.[VAR] A `legend` is a very old and popular story that may be true.
+
+## 2022/09/14
+
+v. If you `notch` a success, especially in a sporting contest,you acheive it.
+v. If you `dye` something such as hair or cloth, you change its color by soaking it in a special liquid.
+n.[C] The `crew` of a ship, an aircraft, or a spacecraft is the people who work on and operate it.
+n.[C] A `hummingbird` is a small brightly coloured bird found in America, especially Central and South America. It has a long thin beak and powerful narrow wings that can move very fast.
+v. If the amount or size of something swells or if something swells it, it becomes larger than it was before.
+v. If a sharp object `pierces` something, or if you pierce something with a sharp object, the object goes into it and makes a hole in it.
+n.[C] A `warehouse` is a large building where raw materials or manufactured good are stored until they are exported to other countries or distributed to shops to be sold.
+v. If you say that a person or thing `deserves` something, you mean that they should have it or receive it because their actions or qualities.
+adj. If you say that something is `precious`, you mean it is valuable and should not be wasted or used badly.
+n.[C] If you have `curls`, your hair is in the form of tight curves and spirals.
+n.[VAR] A `stew` is a meal which you make by cooking meat and vegetables in liquid at a low temperature.
