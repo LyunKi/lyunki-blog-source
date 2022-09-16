@@ -154,12 +154,8 @@ The missiles missed their `target`.
 He pleaded not guilty to murdering his `former` wife.
 ...a `curve` in the road.
 The volcano spewed a `fountain` of molten rock 650 feet in the air.
-He stood on the `podium` and the audience burst into applause.
 I `grabbed` him by the neck.
-Cataract operations are a `triumph` of modern surgy, with a success rate of more than 90 percent.
-...a `bronze` statue of Giorgi Dimitrov.
 A courier was despatched with two `sealed` envelopes.
-The famous athlete won his second gold `medal` in the Olympics Games.
 
 ## 2022/09/02
 
@@ -300,10 +296,26 @@ v. If you `notch` a success, especially in a sporting contest,you acheive it.
 v. If you `dye` something such as hair or cloth, you change its color by soaking it in a special liquid.
 n.[C] The `crew` of a ship, an aircraft, or a spacecraft is the people who work on and operate it.
 n.[C] A `hummingbird` is a small brightly coloured bird found in America, especially Central and South America. It has a long thin beak and powerful narrow wings that can move very fast.
-v. If the amount or size of something swells or if something swells it, it becomes larger than it was before.
+v. If the amount or size of something swells or if something `swells` it, it becomes larger than it was before.
 v. If a sharp object `pierces` something, or if you pierce something with a sharp object, the object goes into it and makes a hole in it.
 n.[C] A `warehouse` is a large building where raw materials or manufactured good are stored until they are exported to other countries or distributed to shops to be sold.
 v. If you say that a person or thing `deserves` something, you mean that they should have it or receive it because their actions or qualities.
 adj. If you say that something is `precious`, you mean it is valuable and should not be wasted or used badly.
 n.[C] If you have `curls`, your hair is in the form of tight curves and spirals.
 n.[VAR] A `stew` is a meal which you make by cooking meat and vegetables in liquid at a low temperature.
+
+## 2022/09/15
+
+n.[VAR] A `triumph` is a great success or achievement, often one that has been gained with a lot of skill or effort.
+n.[U] `Bronze` is a yellowish-brown metal which is a mixture of copper and tin.
+n.[C] A `medal` is small metal disc which is given as an award for bravery or as a prize in a sporting event.
+n.[C] A `discoun` is a reduction in the usual price of something.
+n.[C] A `podium` is a small platform on which someone stands in order to give a lecture or conduct on orchestra.
+v. When you `perform` a task or an action, especially a complicated one, you do it.
+v. If something `splits` or if you split it,it is divided into two or more parts.
+v. When something `drifts` somewhere, it is carried there by the movement of wind or water.
+n.[C] A `strip` of something such as paper,cloth, or food is a long, narrow piece of it.
+v. If you `perch` on sonthing, you sit down slightly on the very edge or tip of it.
+adj. A `creative` person has the ability to invent and develop original ideas, especially in the arts.
+n.[C] A `stunt` is something interesting that is done in order to attract attention and get publicity for the person or company responsible for it.
+n.[C] A `pole` is a long thin piece of wood or metal, used especially for supporting things.
