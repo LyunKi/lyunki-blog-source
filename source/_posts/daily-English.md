@@ -84,7 +84,6 @@ Anita pushed her `plate` away; she had eaten virtually nothing.
 Her marvelous performance won her `plaudits` from the judegs.
 He had `urgent` business in New York.
 I had to take the `herb` tea although it's bitter.
-freshly ground black `pepper`.
 Launch was a `snack` in the fields.
 their physical `characteristics`.
 Our sniper teams `observed` theme manning an anti-aircraft gun.
@@ -319,3 +318,10 @@ v. If you `perch` on sonthing, you sit down slightly on the very edge or tip of 
 adj. A `creative` person has the ability to invent and develop original ideas, especially in the arts.
 n.[C] A `stunt` is something interesting that is done in order to attract attention and get publicity for the person or company responsible for it.
 n.[C] A `pole` is a long thin piece of wood or metal, used especially for supporting things.
+
+## 2022/09/20
+
+n.[U] `Crab` is the flesh of this creature eaten as folod.
+n.[U] `Pepper` is a hot-tasting spice which is used to flavour food.
+n.[U] The `formation` of something is the starting or creation of it.
+n.[C] A `hue` is a colour.
