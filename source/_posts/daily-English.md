@@ -71,9 +71,7 @@ sustain: a sustain attack
 
 sound: the sounds of children playing
 contain: The 77,000-acre estate contains five of the highest peaks in Scotland
-domestic: sales in the domestic market
 Putin's `chief` of security
-The planet is probably in `orbit` around a small star.
 Note how smooth the skin of the upper arm is,then `compare` it to the skin on the elbow.
 I don't like the `flavor` of onion.
 The area has its own `unique` language, Catalan.
@@ -92,7 +90,6 @@ The most valuable `item` on show will be a Picasso drawing.
 It's plain that he adores his daughter, and the feeling is `mutual`.
 ...`ethnic` tensions.
 Oxygen and hydrogen `combine` to form water.
-Garnish with `mint` sprigs.
 The dogs were leaping and growling at the full stretch of their `chains`.
 ...the `combination` of science and art
 I'd dropped a `hint` about havingd an exhibition of his work up here.
@@ -116,14 +113,11 @@ The `apportionment` of government budget is very complicated.
 ## 2022/08/31
 
 He eventually rose to the `rank` of captain.
-Everything had been stitched by Molly's `nimble` fingers.
 It was George who first `proposed` that we dry clothes in that locker.
 Jenny's writing a film `script`.
 ...a great `deal` of money.
-...traditional French cuisine.
 I packed and said goodbye to Charlie.
 `Exprosure` to lead is known to damage the brains of young children.
-...a pudding `basin`.
 He was not interested in a `romantic` relationship with Ingrid.
 They'll spend some time `floating` boats in the creek.
 ...the snipers and artillerymen in the `surrounding` hills.
@@ -325,3 +319,14 @@ n.[U] `Crab` is the flesh of this creature eaten as folod.
 n.[U] `Pepper` is a hot-tasting spice which is used to flavour food.
 n.[U] The `formation` of something is the starting or creation of it.
 n.[C] A `hue` is a colour.
+
+## 2022/09/21
+
+n.[VAR] The `cuisine` of a country or district is the style of cooking that is characteristic of that place.
+adj. Someone who is `nimble` is able to move their fingers, hands, or legs quickly and easily.
+n.[U] `meant` is a herb with fresh-tasting leaves.
+n.[C] A `basin` is a large or deep bowl that you use for holding liquids, or for mixing or storing food.
+adj. `Domestic` political activities, events, and situations happen or exist within one particular country.
+n.[VAR] An `orbit` is the curved path in space that is followed by an object oging round and round a planet, moon, or star.
+v.When you `assess` a person, thing, or situation, you consider them in order to make a judgment about them.
+v. To `mar` something means to spoil or damage it.
