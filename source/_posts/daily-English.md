@@ -93,7 +93,6 @@ Oxygen and hydrogen `combine` to form water.
 The dogs were leaping and growling at the full stretch of their `chains`.
 ...the `combination` of science and art
 I'd dropped a `hint` about havingd an exhibition of his work up here.
-...her `debut` album 'Sugar Time'
 The term 'special needs' covers a wide `spectrum` of problems.
 ...the last `decade` of the nineteenth century.
 ...a `veh.icle` which was somewhere between a tractor and a truck.
@@ -136,7 +135,6 @@ People can feel the `vibration` hundreds of miles from the centre of the earthqu
 They watched the dodgem cars bang and `bounce`.
 The country's economic problems are largely `due` to the weakness of the recovery.
 We now have a Europe without `internal` borders.
-U.K. companies face a `stark` choice if they want to stay competitive.
 Silk was used with wool for `contrast`.
 
 ## 2022/09/01
@@ -330,3 +328,17 @@ adj. `Domestic` political activities, events, and situations happen or exist wit
 n.[VAR] An `orbit` is the curved path in space that is followed by an object oging round and round a planet, moon, or star.
 v.When you `assess` a person, thing, or situation, you consider them in order to make a judgment about them.
 v. To `mar` something means to spoil or damage it.
+
+## 2022/09/23
+
+adj. `Stark` choices or statements are harsh and unpleasant.
+n.[C] The `debut` of a performer or sports player is the first public performance, appearance, or recording.
+n.[C] A `documentary` is a television or radio programme, or a film, which shows real events or providers information about a particular subject.
+v. Something that `stretches` over an area or distance covers or exists in the whole of that area or distance.
+v. If a person or company `caters for` an occasion such as a wedding or a party, they provide food and drink for all the people there.
+n.[C] A `lens` is a thin curved piece of glass or plastic used in things such as cameras, telescopes, and pairs of glasses. You look throught a lens in order to make things look larger, smaller, or clearer.
+n.[VAR] Your `appetite` is your desire to eat.
+n.[C] A `crow` is a large black bird which makes a loud, harsh noise.
+n.[C] You can refer to an event or a short period of time as an `episode` if you want to suggest that it is important or unusual, or has some particular quality.
+v. When you `recall` something, you remember it and tell others about it.
+adj. `Ripe` fruit or grains is fully grown and ready to eat.
