@@ -342,3 +342,13 @@ n.[C] A `crow` is a large black bird which makes a loud, harsh noise.
 n.[C] You can refer to an event or a short period of time as an `episode` if you want to suggest that it is important or unusual, or has some particular quality.
 v. When you `recall` something, you remember it and tell others about it.
 adj. `Ripe` fruit or grains is fully grown and ready to eat.
+
+## 2022/09/26
+
+n.[C] A `surge` is a sudden large increase in something that has previously been steady or has only increase or developed slowly.
+n.[U] The `rental` of something such as a car or piece of equipment is the activity or process of renting it.
+v.If you `quote` someone as saying something, you repeat what the have written or said.
+v.If a liquid or a river overflows, it flow over the edges of the container or place it is in.
+v. If you `finalize` something such as a plan or an agreement, you complete the arrangements for it, especially by discussing it with other people.
+n.[C] The different `elements` of something are the different parts it contains.
+n.[C] A `trend` is a change or development towards something new or different.
