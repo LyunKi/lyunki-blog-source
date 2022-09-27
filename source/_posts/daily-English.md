@@ -352,3 +352,10 @@ v.If a liquid or a river overflows, it flow over the edges of the container or p
 v. If you `finalize` something such as a plan or an agreement, you complete the arrangements for it, especially by discussing it with other people.
 n.[C] The different `elements` of something are the different parts it contains.
 n.[C] A `trend` is a change or development towards something new or different.
+
+## 2022/09/27
+
+n.[U] `Surgery` is a medical treatment in which someone's body is cut open so that a doctor can repair, remove, or replace a diseased or damaged part.
+v. If you `grind` a substance such as corn, you crush it betwwen two hard surfaces or with a machine until it becomes a fine powder.
+adj. A test, system or procedure that is `rigorous` is very thorough and strict.
+n.[C] A `tube` is a long hollow object that is usually round, like a pipe.
