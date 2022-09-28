@@ -359,3 +359,13 @@ n.[U] `Surgery` is a medical treatment in which someone's body is cut open so th
 v. If you `grind` a substance such as corn, you crush it betwwen two hard surfaces or with a machine until it becomes a fine powder.
 adj. A test, system or procedure that is `rigorous` is very thorough and strict.
 n.[C] A `tube` is a long hollow object that is usually round, like a pipe.
+
+## 2022/09/28
+
+v. If someone `incapacitate` you, it weakens you in some way, so that you cannot do certain things.
+n.[C] A `volunteer` is someone who does work without being paid, because thet want to do it.
+v. If someone `integrates` into a social group, or is integrated into it, they behave in such a way that they become part of the group or are accepted into it.
+v. If you `embrace` someone, you put your arms around them and hold them tightly, usually in order to show your love or affection for them. You can also say that two people embrace.
+n.[VAR] Your `capacity` for something is your ability to do it, or the amount of it that you are able to do.
+n.[C] An `agency` is a business which provides a service on behalf of other business.
+v. When you `undertake` a task or job, you start doing it and accept responsibility for it.
