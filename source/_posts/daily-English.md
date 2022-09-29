@@ -71,7 +71,6 @@ sustain: a sustain attack
 
 sound: the sounds of children playing
 contain: The 77,000-acre estate contains five of the highest peaks in Scotland
-Putin's `chief` of security
 Note how smooth the skin of the upper arm is,then `compare` it to the skin on the elbow.
 I don't like the `flavor` of onion.
 The area has its own `unique` language, Catalan.
@@ -369,3 +368,9 @@ v. If you `embrace` someone, you put your arms around them and hold them tightly
 n.[VAR] Your `capacity` for something is your ability to do it, or the amount of it that you are able to do.
 n.[C] An `agency` is a business which provides a service on behalf of other business.
 v. When you `undertake` a task or job, you start doing it and accept responsibility for it.
+
+## 2022/09/29
+
+n.[C] A `phase` is a particular stage in a process or in the gradual development of something.
+n.[C] The `chief` of an organization is the person who is in charge of it.
+n.[C] An `assembly` is a large group of people who meet regularly to make decisions or laws for a particular region or country.
