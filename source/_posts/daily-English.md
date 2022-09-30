@@ -373,4 +373,12 @@ v. When you `undertake` a task or job, you start doing it and accept responsibil
 
 n.[C] A `phase` is a particular stage in a process or in the gradual development of something.
 n.[C] The `chief` of an organization is the person who is in charge of it.
-n.[C] An `assembly` is a large group of people who meet regularly to make decisions or laws for a particular region or country.
+n.[C] An `assembly` is a large group of people who meet regularly to make decisions or laws for a particular region or countr
+
+# 2022/09/30
+
+n.[U] The `welfare` of a people or group is their healty, comfort, and happiness.
+v. If you `donate` something to a charity or other organization, you give it to them.
+n.[U] `Therapy` is the treatment of someone with mental or physical illness without the use of drugs or operations.
+n.[C] A `bunch` of people is a group of people who share one or more characteristics or who are doing something together.
+n.[VAR] A `ribbon` is a long, narrow piece of cloth that you use for tying things together or as a decoration.
