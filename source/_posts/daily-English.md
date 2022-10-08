@@ -382,3 +382,14 @@ v. If you `donate` something to a charity or other organization, you give it to 
 n.[U] `Therapy` is the treatment of someone with mental or physical illness without the use of drugs or operations.
 n.[C] A `bunch` of people is a group of people who share one or more characteristics or who are doing something together.
 n.[VAR] A `ribbon` is a long, narrow piece of cloth that you use for tying things together or as a decoration.
+
+## 2022/10/08
+
+adj. A place that is `packed` is very crowded.
+adj. `Municipal` means associated with or belonging to a city or town that has its own government.
+n.[VAR] A `routine` is the usual series of things that you do at a particular time. A routine is also the practice of regularly doing things in a fixed order.
+n.[U] The `consumption` of fuel or natural resources is the amount of them that is used or the act of using them.
+n.[U] The `neccessity` of something is the fact that it must happen or exist.
+adj. The `senior` people in an organization or profession have the highest and most important jobs.
+adj. A `brisk` activity or action is done quickly and in an energetic way.
+v. If one thing `boost` another, it causes it to increase, improve, or be more successful.
