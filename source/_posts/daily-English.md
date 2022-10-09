@@ -393,3 +393,10 @@ n.[U] The `neccessity` of something is the fact that it must happen or exist.
 adj. The `senior` people in an organization or profession have the highest and most important jobs.
 adj. A `brisk` activity or action is done quickly and in an energetic way.
 v. If one thing `boost` another, it causes it to increase, improve, or be more successful.
+
+## 2022/10/09
+
+n.[C] Your `colleagues` are the people you work with, especially in a professional job.
+n.[U] `Retail` is the activity of selling goods direct to the public, usually in small quantities.
+v. If you `specialize in` a thing, you know a lot about it and concentrate a great deal of your time and energy on it, especially in your work or when you are studying or training.
+v. If you `soak` something or leave it to soak, you put it into a liquid and leave it there.
