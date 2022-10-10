@@ -400,3 +400,11 @@ n.[C] Your `colleagues` are the people you work with, especially in a profession
 n.[U] `Retail` is the activity of selling goods direct to the public, usually in small quantities.
 v. If you `specialize in` a thing, you know a lot about it and concentrate a great deal of your time and energy on it, especially in your work or when you are studying or training.
 v. If you `soak` something or leave it to soak, you put it into a liquid and leave it there.
+
+## 2022/10/10
+
+adj. If you describe someone as `wan`, you mean that they look pale and tired.
+n.[C] A `dairy` is a shop or company that sells milk and food made from milk, such as butter, cream, and cheese.
+n.[C] A `souvenir` is something which you buy or keep to remind you of a holiday, place, or event.
+v. If an idea, feeling, or attitude `permiates` a systme or permiate society, it affects every part of it or is present thorough it.
+n.[VAR] `Syrup` is a sweet liquid made by cooking sugar with water, sometimes with fruit juice as well.
