@@ -408,3 +408,11 @@ n.[C] A `dairy` is a shop or company that sells milk and food made from milk, su
 n.[C] A `souvenir` is something which you buy or keep to remind you of a holiday, place, or event.
 v. If an idea, feeling, or attitude `permiates` a systme or permiate society, it affects every part of it or is present thorough it.
 n.[VAR] `Syrup` is a sweet liquid made by cooking sugar with water, sometimes with fruit juice as well.
+
+## 2022/10/12
+
+n.[VAR] Your `personality` is your whole character and nature.
+n.[VAR] An actor's or performer's `costume` is the set of clothes they wear while they are performing.
+adj. A `chivalrous` man is polite, kind, and unselfish, especially towards women.
+v. If you `immerse` yourself in something that you are doing, you become completely involved in it.
+adj. If two or more things are `alike`, they are similar in some way.
