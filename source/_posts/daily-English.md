@@ -416,3 +416,13 @@ n.[VAR] An actor's or performer's `costume` is the set of clothes they wear whil
 adj. A `chivalrous` man is polite, kind, and unselfish, especially towards women.
 v. If you `immerse` yourself in something that you are doing, you become completely involved in it.
 adj. If two or more things are `alike`, they are similar in some way.
+
+## 2022/10/13
+
+adj. A place that is `packed` is very crowded.
+n.[C] Your `profile` is the outline of your face as it is seen when someone is looking at you from the side.
+adj. `Mental` means relating to the processing of thinking.
+n.[U] If you are allowed `credit`, you are allowed to pay for goods or services serveral weeks or months after you have received them.
+v. If one thing `incorporates` another thing, it includes the other thing.
+v. If you `encounter` problems or difficults, you experience them.
+adj. Someone or something that is `productive` produces or does a lot for the amount of resources used.
