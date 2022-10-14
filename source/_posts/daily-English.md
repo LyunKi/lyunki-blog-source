@@ -426,3 +426,13 @@ n.[U] If you are allowed `credit`, you are allowed to pay for goods or services 
 v. If one thing `incorporates` another thing, it includes the other thing.
 v. If you `encounter` problems or difficults, you experience them.
 adj. Someone or something that is `productive` produces or does a lot for the amount of resources used.
+
+## 2022/10/14
+
+v. If you `hustle` someone, you try to make them go somewhere or do something quickly, for example bu pulling or pushing them along.
+n.[C] An `apartment` is a set of room for living in, usually on one floor of a large building.
+n.[C] A `metroppolis` is the largest, buigest, and most important city in a country or region.
+n.[C] If there is a `boom` in the economy, there is an increase in economic activity.
+v. If you `scatter` things over an area, you throw or drop them so that they spread all over the area.
+n.[U] `Efficiency` is the quality of being able to do a task successfully, without wasting time or energy.
+n.[U] `Litter` is rubbish that is left lying around outside.
