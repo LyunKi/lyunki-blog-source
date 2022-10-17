@@ -436,3 +436,12 @@ n.[C] If there is a `boom` in the economy, there is an increase in economic acti
 v. If you `scatter` things over an area, you throw or drop them so that they spread all over the area.
 n.[U] `Efficiency` is the quality of being able to do a task successfully, without wasting time or energy.
 n.[U] `Litter` is rubbish that is left lying around outside.
+
+## 2022/10/17
+
+v. If someone or something `thrives`, they do well and are successful, healthy, or strong.
+v. If you `possess` something, you have it or own it.
+n.[C] `Orchids` are plants with brightly coloured, unually shaped flowers.
+n.[U] `Prosperity` is a condition in which a person or community is doing well financially.
+adj. Something that is `auspicious` indicates that success is likely.
+v. If one thing or person `resembles` another, they are similar to each other.
