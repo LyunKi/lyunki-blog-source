@@ -455,3 +455,15 @@ n.[C] A `cactus` is a thick fleshy plant that grows in many hot, dry parts of th
 n. A `bloom` is the flower on a plant.
 n.[VAR] `Bloosom` is the flowers that apper on a tree before the fruit.
 adj. Someone who is `furious` is `extremely angry.
+
+## 2022/10/20
+
+n.[C] The `kernel` of a nut is the part that is inside the shell.
+v. If something is embellished with decorative features or patterns, it has those features or patterns on it and they make it look more attractive.
+v. When a cake or bread `bakes` or when you bake it, it cooks in the oven without any extra liquid or fat.
+n.[VAR] A `lawn` is an area of grass that is kept cut short.
+n.[VAR] If you feel a sense of `relief`, you feel happy because something unpleasant has not happened or is no longer happening.
+n.[C] A `lodge` is a house or hut in the country or in the mountains where people stay on holiday, especially when they want to shoot or fish.
+v. If you `anticipate` an event, you realize in advance that it may happen and you are prepared for it.
+v. If you `cite` something, you quote it or mention it, especially as an example or proof of what you are saying.
+v. If you `scratch` yourself, you rub your fingernails against your skin because it is itching.
