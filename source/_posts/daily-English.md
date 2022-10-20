@@ -445,3 +445,13 @@ n.[C] `Orchids` are plants with brightly coloured, unually shaped flowers.
 n.[U] `Prosperity` is a condition in which a person or community is doing well financially.
 adj. Something that is `auspicious` indicates that success is likely.
 v. If one thing or person `resembles` another, they are similar to each other.
+
+## 2022/10/19
+
+n.[VAR] A `metaphor` is an imaginative way of describing something by referring to something else which is the same in a particular way. For example, if you want to say someone is very shy and frightened, you might say that they are a mouse.
+v. If someone `violate` an agreement, law, or promise, they break it.
+adj. You use `particular` to emphasize that you are talking about one thing or one kind of thing rather than one other similar ones.
+n.[C] A `cactus` is a thick fleshy plant that grows in many hot, dry parts of the world. Cacti have no leaves and many of them are covered with prickles.
+n. A `bloom` is the flower on a plant.
+n.[VAR] `Bloosom` is the flowers that apper on a tree before the fruit.
+adj. Someone who is `furious` is `extremely angry.
