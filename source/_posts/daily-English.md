@@ -467,3 +467,11 @@ n.[C] A `lodge` is a house or hut in the country or in the mountains where peopl
 v. If you `anticipate` an event, you realize in advance that it may happen and you are prepared for it.
 v. If you `cite` something, you quote it or mention it, especially as an example or proof of what you are saying.
 v. If you `scratch` yourself, you rub your fingernails against your skin because it is itching.
+
+## 2022/10/21
+
+adj. `Foster` parents are people who officially take a child into their family for a period of time, without becoming the child's legal parents. The child is referred to as their foster child.
+n.[C] `Academy` is sometimes used in the names of schools and colleges, especially those specializing in particular subjects or skills, or private high school in the United States.
+n.[VAR] A `bluff` is an attempt to make someone believe that you will do something when you do not really intend to do it.
+n.[C] An `institute` is an organization set up to do a particular type of work.
+adj. `Artifical` objects, materials, or processes do not occur naturally and are created by human beings, for example using science or technology.
