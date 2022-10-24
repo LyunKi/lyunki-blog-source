@@ -475,3 +475,13 @@ n.[C] `Academy` is sometimes used in the names of schools and colleges, especial
 n.[VAR] A `bluff` is an attempt to make someone believe that you will do something when you do not really intend to do it.
 n.[C] An `institute` is an organization set up to do a particular type of work.
 adj. `Artifical` objects, materials, or processes do not occur naturally and are created by human beings, for example using science or technology.
+
+## 2022/10/24
+
+n.[U] A person of `renown` is well known, usually because they do or have done something good.
+n.[C] Your `palate` is the top part of the inside of your mouth.
+adj. Someone who is `bold` is not afraid to do things which involve risk or danger.
+n.[V] `Stocks` are shares in the ownership of a company, or investments on which a fixed amount of interest will be paid.
+n.[C] The `stalk` of a flower, leaf, or fruit is the thin part that joins it to the plant or tree.
+n.[VAR] A `spice` is a part of a plant, or a powder made from that part, which you put in food to give it flavour.
+adj. An `eminent` person is well-known and respected, especially because thay are good at their profession.
