@@ -485,3 +485,13 @@ n.[V] `Stocks` are shares in the ownership of a company, or investments on which
 n.[C] The `stalk` of a flower, leaf, or fruit is the thin part that joins it to the plant or tree.
 n.[VAR] A `spice` is a part of a plant, or a powder made from that part, which you put in food to give it flavour.
 adj. An `eminent` person is well-known and respected, especially because thay are good at their profession.
+
+## 2022/10/25
+
+In the revolutionary's poem, he used the `metaphor` of fire to represent hatred.
+Many of your suggestions have been `incorporated` in the new plan
+His career as a `playwright` had an `auspicious` start
+n.[C] When there is not enought of something, your `ration` is the amount that you are allowed to have.
+n.[U] `Trash` consists of unwanted things or waste material such as used paper, empty containers and bottles, and waste food.
+adj. A `mischievous` person likes to have fun by playing harmless tricks on people or do things they are not supposed to do.
+v. If you `sacrifice` something that is valuable or important, you give it up, usually to obtain something else for yourself or for other people.
