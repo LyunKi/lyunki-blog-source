@@ -495,3 +495,13 @@ n.[C] When there is not enought of something, your `ration` is the amount that y
 n.[U] `Trash` consists of unwanted things or waste material such as used paper, empty containers and bottles, and waste food.
 adj. A `mischievous` person likes to have fun by playing harmless tricks on people or do things they are not supposed to do.
 v. If you `sacrifice` something that is valuable or important, you give it up, usually to obtain something else for yourself or for other people.
+
+## 2022/10/26
+
+The ice cream is decorated with `mint` leaves.
+a `bronze` statue of Giorigi Dimitrov.
+the Royal `Academy` of music.
+n.[C] A `pinnacle` is a pointed piece of stone or rock that is higher than the ground.
+n.[C] If you have a `nap`, you have a short sleep, usually during the day.
+v. If things `vary`, they have different from each other in size, amount, or degree.
+adj. A `vain` attempt or action is one that fails to acheive what was intended.
