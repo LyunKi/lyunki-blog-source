@@ -505,3 +505,14 @@ n.[C] A `pinnacle` is a pointed piece of stone or rock that is higher than the g
 n.[C] If you have a `nap`, you have a short sleep, usually during the day.
 v. If things `vary`, they have different from each other in size, amount, or degree.
 adj. A `vain` attempt or action is one that fails to acheive what was intended.
+
+## 2022/10/27
+
+If you see `litter` in the corridor, pick it up.
+Cataract operations are a `triumph` of modern surgery, with a success rate of more than 90 percent.
+I might take a littler `nap`.
+n.[C] A `draft` is an early version of a letter, book, or speech.
+n.[U] The `publication` of a book or magazine is the act of printing it and sending it to shops to be sold.
+v. If something `decline`, it becomes less in quantity, importance, or strength.
+n.[U] `Genius` is very great ability or skill in a particular subject or activity.
+n.[C] A `critic` is a person who writes about and expresses opinions about things such as books, films, music, or art.
