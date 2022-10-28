@@ -516,3 +516,16 @@ n.[U] The `publication` of a book or magazine is the act of printing it and send
 v. If something `decline`, it becomes less in quantity, importance, or strength.
 n.[U] `Genius` is very great ability or skill in a particular subject or activity.
 n.[C] A `critic` is a person who writes about and expresses opinions about things such as books, films, music, or art.
+
+## 2022/10/28
+
+A number of problems `marred` the smooth running of this event.
+Private automobiles are not allowed on `compus`.
+The New York `critics` had praised her performance.
+The problem is that the most local authorities lack the `expertise` to deal sensibly in this market.
+Thousants of ex-army officers have found `lucrative` jobs in private security firms.
+`ceramic` tiles.
+adj. `Coarse` things have a rough texture.
+adj. `Thermal` means relating to or cause by heat or by changes in temperature.
+n.[C] A `strand` of something such as hair, wire, or thread is a single thin piece of it.
+n.[C] A `salon` is a place where people have their hair cut or coloured, or have beauty treatments.
