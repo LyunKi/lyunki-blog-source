@@ -529,3 +529,15 @@ adj. `Coarse` things have a rough texture.
 adj. `Thermal` means relating to or cause by heat or by changes in temperature.
 n.[C] A `strand` of something such as hair, wire, or thread is a single thin piece of it.
 n.[C] A `salon` is a place where people have their hair cut or coloured, or have beauty treatments.
+
+## 2022/10/29
+
+Since then, I've lived alone and `immersed` myself in my career.
+Little Jack was placed with foster parents.
+the formation of the new government.
+thermal power stations.
+n.[U] `Archaeology` is the study of the socielties and peoples of the past by examining the remains of their building, tools, and other objects.
+The `excavations` are open to the public.
+v. If someone `unearths` facts or evidence about something bad, they discover them with difficulty. usually they were being kept secret or were being lied about.
+n.[C] An `ornament` is an attractive object that you display in your home or in your garden.
+n.[U] You can use `pottery` to refer to pots, dishes, and other objects which are made from clay and then baked in an oven until they are hard.
