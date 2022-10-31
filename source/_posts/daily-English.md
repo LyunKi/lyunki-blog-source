@@ -541,3 +541,16 @@ The `excavations` are open to the public.
 v. If someone `unearths` facts or evidence about something bad, they discover them with difficulty. usually they were being kept secret or were being lied about.
 n.[C] An `ornament` is an attractive object that you display in your home or in your garden.
 n.[U] You can use `pottery` to refer to pots, dishes, and other objects which are made from clay and then baked in an oven until they are hard.
+
+## 2022/10/31
+
+It is a suitable location for a `cactus`.
+Harry carefully picked the `bloom`.
+Sometimes the home environment just isn't `conducive` to reading.
+He is `furious` at the way his wife has been treated.
+They went to prison because they violated the blaw.
+v.If something `tends` to happen, it usuallty happens or it often happens.
+adj. Someone or something that is `tender` expresses gentle and caring feelings.
+adj. An `aquatic` animal or plant lives or grows on or in water.
+v.If someone `boasts` about something that they have done or that they own, they talk about it very proudly, in a way that other people may find irritating or offensive.
+adj. Something that is `delicate` is small and beautifully shaped.
