@@ -554,3 +554,19 @@ adj. Someone or something that is `tender` expresses gentle and caring feelings.
 adj. An `aquatic` animal or plant lives or grows on or in water.
 v.If someone `boasts` about something that they have done or that they own, they talk about it very proudly, in a way that other people may find irritating or offensive.
 adj. Something that is `delicate` is small and beautifully shaped.
+
+## 2022/11/01
+
+We remember our mother's stern instructions not to `boast`.
+It is `anticipated` that the equivalent of 192 full-time jobs will be lost.
+He spent a whole afternoon mowing the `lawn` in front of his house.
+...`aquatic` birds
+Ivy leaves `embellish` the front of the dresser.
+I breathed a sigh of `relief`.
+a ski `lodge`
+v. If you are `mesmerized` by something, you are so intrested in it or so attracted to it that you cannot think anything else.
+n.[C] A `panel` is a small group of people who are chosen to do something, for example to discuss something in public or to make a decision.
+adj. Something that is `mundane` is very ordinary and not at all interesting or unusual.
+n.[C] A `boulder` is a large rounded rock.
+n.[U] `Passion` is strong sexual feelings towards someone.
+n.[U] `Chagrin` is a felling of disappointment, upset, or annoyance, perhaps becuase of your own failure.
