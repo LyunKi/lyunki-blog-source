@@ -570,3 +570,15 @@ adj. Something that is `mundane` is very ordinary and not at all interesting or 
 n.[C] A `boulder` is a large rounded rock.
 n.[U] `Passion` is strong sexual feelings towards someone.
 n.[U] `Chagrin` is a felling of disappointment, upset, or annoyance, perhaps becuase of your own failure.
+
+## 2022/11/02
+
+There was something about Pearl that `mesmerized` her.
+Such a move is rare, but not `unprecedented`.
+...traditional French `cuisine`.
+v. When animals or plants `evolve`, they gradually change and develop into different forms.
+n.[C] A `motif` is a design which is used as a decoration or as part of an artistic pattern.
+n.[U] `Hemp` is a plant used for making rope or the drug marijuana.
+n.[U] `Ivory` is a hard cream-coloured substance which forms the tusks of elephants. It is valuable and can be used for making carved ornaments.
+v.To `depict` someone or something means to show or represent them in a work of art such as a drawing or painting.
+n.[VAR] A `debate` is a discussion about a subject on which people have different views.
