@@ -582,3 +582,19 @@ n.[U] `Hemp` is a plant used for making rope or the drug marijuana.
 n.[U] `Ivory` is a hard cream-coloured substance which forms the tusks of elephants. It is valuable and can be used for making carved ornaments.
 v.To `depict` someone or something means to show or represent them in a work of art such as a drawing or painting.
 n.[VAR] A `debate` is a discussion about a subject on which people have different views.
+
+## 2022/11/03
+
+... a gallery of pictures `depicting` Nelsom's most famous battles.
+The rope is made of `hemp` instead of withies.
+... the international ban on the sale of `ivory`
+a beach of `coarse` sand.
+an elite research `institute` devoted to computer software.
+n.[C] A `curriculum` is all the different courses of study that are taught in a school college, or university.
+n.[C] A `disaster` is a very bad accident such as an earthquake, or a plane crash, especially one in which a lot of people are killed.
+n.[U] The `utility` of something is its usefulness.
+n.[C] A `crossing` is a journey by boat or ship to a place on the other side of a sea, river or lake.
+adj. `Successive` means happening or existing one after another without a break.
+v. If you are `motivated` by something, especially an emotion, it cause you to behave in a particular way.
+n.[C] A `patent` is an official right to be the only person or company allowed to make or sell a new product for a certain period of time.
+n.[C] In colleges and universities in some countries, a `semetster` is one of the two main period into which the year is divided.
