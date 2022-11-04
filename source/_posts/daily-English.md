@@ -598,3 +598,15 @@ adj. `Successive` means happening or existing one after another without a break.
 v. If you are `motivated` by something, especially an emotion, it cause you to behave in a particular way.
 n.[C] A `patent` is an official right to be the only person or company allowed to make or sell a new product for a certain period of time.
 n.[C] In colleges and universities in some countries, a `semetster` is one of the two main period into which the year is divided.
+
+## 2022/11/04
+
+fresh pasta sauces to temp more demanding `palates`.
+the buying and selling of `stocks` and shares.
+She used to be a singer of some `renown`.
+The `patent` runs out in three years time.
+an `eminent` scientist.
+Social practice is an essential part of the school curriculum.
+n.[C] `Rodents` are small mammals which have sharp front teeth. Rats, mice, and squirrels are rodents.
+n.[U] Plants, trees and flowers can be referred to as `vegetation`.
+n.[C] A `mason` is a person who is skilled at making things or building things with stone.
