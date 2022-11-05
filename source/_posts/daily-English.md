@@ -610,3 +610,18 @@ Social practice is an essential part of the school curriculum.
 n.[C] `Rodents` are small mammals which have sharp front teeth. Rats, mice, and squirrels are rodents.
 n.[U] Plants, trees and flowers can be referred to as `vegetation`.
 n.[C] A `mason` is a person who is skilled at making things or building things with stone.
+
+## 2022/11/05
+
+People can feel the `vibration` hundres of miles from the centre of the earthquake.
+holes made by the `emerging` adult beetle.
+The meat `ration` was down to one pound per person per week.
+The latter is a small `rodent` that lived in the island.
+Her father works as a `mason`.
+Her son is noisy and `mischievous`.
+v. If you `dump` something somewhere, you put it or unload it there quickly and carelessly.
+n.[C] If you refer to something or someone as a `relic` of an earlier period, you mean that they belongs to that period but have survived into the present.
+v.To `manufacture` something means to make it in factory, usually in large quantities.
+n.[C] A `pit` is a coal mine.
+n.[C] A `journal` is a magazine, especially one that deals with a specialized subject.
+n.[C] A `mold` is a hollow container that you pour liquid into. When the liquid becomes solid, it takes the same shape as the mould.
