@@ -7,3 +7,4 @@ public/
 .deploy*/
 pnpm-lock.yaml
 .npmrc
+.vscode/*.code-workspace

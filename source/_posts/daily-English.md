@@ -625,3 +625,19 @@ v.To `manufacture` something means to make it in factory, usually in large quant
 n.[C] A `pit` is a coal mine.
 n.[C] A `journal` is a magazine, especially one that deals with a specialized subject.
 n.[C] A `mold` is a hollow container that you pour liquid into. When the liquid becomes solid, it takes the same shape as the mould.
+
+## 2022/11/07
+
+We dug a shallow `pit` and put the seeds in it.
+She was still a screen goddess at the `pinnacle` of her career.
+a museum of war `relics`.
+a rose `motif`.
+I am going to `transfer` some money to your account.
+jelly `molds`.
+She closed her eyes tightly in a `vain` attempt to hold back the tears.
+adj. A condition, practice, or belief that is `prevalent` is common.
+n.[C] A `symptom` of an illness is something wrong with your body or mind that is a sign of the illness.
+n.[C] A `trance` is a state of mind in which someone seems to be asleep and to have no conscious control over their thoughts or actions, but in which they can see and hear things and respond to commands given by other people.
+v. To `stimulate` something means to encourage it to begin or develop further.
+n.[C] A `gorge` is a deep, narrow valley with very steep sides, usually where a river passes through mountains or an area of hard rock.
+adj. If part of your body is sore, it causes you pain and discomfort.
