@@ -641,3 +641,18 @@ n.[C] A `trance` is a state of mind in which someone seems to be asleep and to h
 v. To `stimulate` something means to encourage it to begin or develop further.
 n.[C] A `gorge` is a deep, narrow valley with very steep sides, usually where a river passes through mountains or an area of hard rock.
 adj. If part of your body is sore, it causes you pain and discomfort.
+
+## 2022/11/08
+
+Some people prefer `dairy` milk to soy milk
+At the bottom of a `gorge` there is a creek.
+The hypnotist put the man into a `trance`.
+The `ivory` trades is endangering the survival of elephants.
+v. When you `chill` something or when it chills, you lower its temperature so that it becomes colder but dose not freeze.
+v. To `advance` means to move forward, often in order to attck someone.
+adj. If a person or country adopts a `neutral` position or remains neutral, they do not support anyone in a disagreement, war, or contest.
+n.[U] `Disgust` is a feeling of very strong dislike or disapproval.
+adj. `Glossy` means smooth and shiny.
+n.[C] A `gourd` is a large round fruit with a hard skin. You can also use gourd to refer to the plant on which this fruit grows.
+n.[U] You can use `stuff` to refer to things such as a substance, a collection of things, events, or ideas, or the contents of something in a general way without mentioning the thing itself by name.
+n.[VAR] `Protein` is a substance found in food and drink such as meat, eggs, and milk. You need protein in order to grow and be healthy.
