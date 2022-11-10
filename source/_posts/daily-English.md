@@ -656,3 +656,21 @@ adj. `Glossy` means smooth and shiny.
 n.[C] A `gourd` is a large round fruit with a hard skin. You can also use gourd to refer to the plant on which this fruit grows.
 n.[U] You can use `stuff` to refer to things such as a substance, a collection of things, events, or ideas, or the contents of something in a general way without mentioning the thing itself by name.
 n.[VAR] `Protein` is a substance found in food and drink such as meat, eggs, and milk. You need protein in order to grow and be healthy.
+
+## 2022/11/10
+
+His career as a playwright had an `auspicious` start.
+Her father works as a `mason`.
+In the revolutionary's poem, he used the `metaphor` of fire to represent hatred.
+China has always `facinated` me.
+She gave him a look of contempt and `disgust` and walked away.
+Social practice is an essential part of the school `curriculum`.
+The `patent` runs out in three years time.
+
+adj. A `staple` food, product, or activity is one that is basic and important in people's everyday lives.
+adj. If you describe someone or something as `dull`, you mean they are not interesting or exciting.
+n.[C] A `residue` of something is a small amount that remains after most of it has gone.
+adj. An `authentic` person, object, or emotion is genuine.
+n.[C] A `drill` is a tool or machine that you use for making holes.
+n.[U] Ferment is excitement and trouble caused by change or uncertainty.
+v. When something such as an emotion `impels` you to do something, it affects you so strongly that you feel forced to do it.
