@@ -674,3 +674,16 @@ adj. An `authentic` person, object, or emotion is genuine.
 n.[C] A `drill` is a tool or machine that you use for making holes.
 n.[U] Ferment is excitement and trouble caused by change or uncertainty.
 v. When something such as an emotion `impels` you to do something, it affects you so strongly that you feel forced to do it.
+
+## 2022/11/11
+
+Some bowls were made of `pottery` and wood.
+He's `boasted` of being involved in the arms theft.
+Humorous conversation is a `staple` ingredient of comedy.
+The wine will stop `fermenting` if the temperature is too low.
+v. If you `yield` to something or someone, you stop resisting them.
+adj. Someone who is `resistant` to something is opposed to it and wants to prevent it.
+adj. Something that is `premature` happens earlier than usual or earlier than people expect.
+n.[U] `Genetics` is the study of heredity and how qualities and characteristics are passed on from one generation to another by the means of gene.
+n.[C] A `breed` of a pet animal or fram animal is a particular type of it. For example, terriesr are a breed of dog.
+adj. `Arid` land is so dry that very few plants can grow on it.
