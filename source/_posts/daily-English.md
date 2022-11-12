@@ -687,3 +687,14 @@ adj. Something that is `premature` happens earlier than usual or earlier than pe
 n.[U] `Genetics` is the study of heredity and how qualities and characteristics are passed on from one generation to another by the means of gene.
 n.[C] A `breed` of a pet animal or fram animal is a particular type of it. For example, terriesr are a breed of dog.
 adj. `Arid` land is so dry that very few plants can grow on it.
+
+## 2022/11/12
+
+My son have never shown an interest in football, much to my `chagrin`.
+the `mundane` realities of life.
+the expression of love and `passion`.
+Intellectual pretension was never his `vices`.
+a museum of war `relic`.
+v. When a baby bird, insect, or other animal `hatched`, or when it is hatched, it comes out of its egg by breaking the shell.
+n.[C] A `cabin` is a small room in a ship or boat.
+n.[C] A `pump` is a machine or device that is used to force a liquid or gas to flow in a particular direction.
