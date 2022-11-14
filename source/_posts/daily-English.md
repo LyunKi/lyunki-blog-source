@@ -698,3 +698,16 @@ a museum of war `relic`.
 v. When a baby bird, insect, or other animal `hatched`, or when it is hatched, it comes out of its egg by breaking the shell.
 n.[C] A `cabin` is a small room in a ship or boat.
 n.[C] A `pump` is a machine or device that is used to force a liquid or gas to flow in a particular direction.
+
+## 2022/11/14
+
+New students often get registered at the beginning of the fall `semester`.
+At the bottom of the `gorge` there is a creek.
+Like a man in a `trance`, Blake found his way back to his rooms.
+The horse broke into a `brisk` trot.
+v. If you `brew` tea or coffee, you make it by pouring hot water over tea leaves or ground coffee.
+n.[VAR] A `ritual` is a religious service or other ceremony which involves a series of actions performed in a fixed order.
+v. If something `flourishes`, it is successful, active, or common, and developing quickly and strongly.
+v. If you `blend` substances together or they blend, you mix them together so that they become on substance.
+n. A `scholar` is a person who studies an academic subject and knows a lot about it.
+adj. Someone who is `artistic` is good at painting or drawing, or arranging things in a beautiful way.
