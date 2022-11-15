@@ -711,3 +711,12 @@ v. If something `flourishes`, it is successful, active, or common, and developin
 v. If you `blend` substances together or they blend, you mix them together so that they become on substance.
 n. A `scholar` is a person who studies an academic subject and knows a lot about it.
 adj. Someone who is `artistic` is good at painting or drawing, or arranging things in a beautiful way.
+
+## 2022/11/15
+
+It's a suitable location for a `cactus`.
+He spoke of his `disgust` at the incident.
+There was total agreement to start the peace `process` as soon as possible.
+n.[VAR] A `convention` is a way of behaving that is considered to be correct or polite by most people in a society.
+n.[U] `Botany` is the scientific study of plants.
+v. If you `reproach` someone, you say or show that your are disappointed, upset, or angry because they have done something wrong.
