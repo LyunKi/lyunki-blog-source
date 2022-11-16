@@ -720,3 +720,17 @@ There was total agreement to start the peace `process` as soon as possible.
 n.[VAR] A `convention` is a way of behaving that is considered to be correct or polite by most people in a society.
 n.[U] `Botany` is the scientific study of plants.
 v. If you `reproach` someone, you say or show that your are disappointed, upset, or angry because they have done something wrong.
+
+## 2022/11/16
+
+...bottles of air `dye`.
+The whole country has been in a state of political `ferment` for some months
+He looked `wan` and tired
+She eagerly `embraced` the offer of a trip to Europe.
+He spent a whole afternoon mowing the `lawn` in front of his house.
+Humorous conversations is a `staple` ingredient of comedy.
+adj. A place that is `packed` is very crowded.
+She had not even `reproached` him for breaking his p2romise.
+v. If you `impede` someone or something, you make their movement, development or progress difficult.
+adj. `Corgnitive` means relating to the mental process involved in knowing, learning, and understnading things.
+n.[U] `Prose` is ordinary written language, in contrast to poetry.
