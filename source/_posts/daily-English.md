@@ -733,4 +733,15 @@ adj. A place that is `packed` is very crowded.
 She had not even `reproached` him for breaking his p2romise.
 v. If you `impede` someone or something, you make their movement, development or progress difficult.
 adj. `Corgnitive` means relating to the mental process involved in knowing, learning, and understnading things.
-n.[U] `Prose` is ordinary written language, in contrast to poetry.
+n.[U] `Prose` is ordinary written language2, in contrast to poetry.
+
+## 2022/11/17
+
+The pond can supported many `aquatic` plants and fish.
+We import foreign `manufactured` goods.
+Fallen rocks is `impeding` the progress of rescue workers.
+n.[C] The `scent` of something is the pleasant smell that it has.
+adj. Something or someone that is `persuasive` is likely to persuade a person to believe or do a particular thing.
+n.[C] A `shelter` is a small building which is made to protect people from bad weather or danger.
+n.[C] A `motto` is a short sentence or phrase that expresses a rule for sensible behavior, especially a way of behaving in a particular situation.
+adj. Something that is `dazzling` is very impressive or beautiful.
