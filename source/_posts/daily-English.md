@@ -745,3 +745,15 @@ adj. Something or someone that is `persuasive` is likely to persuade a person to
 n.[C] A `shelter` is a small building which is made to protect people from bad weather or danger.
 n.[C] A `motto` is a short sentence or phrase that expresses a rule for sensible behavior, especially a way of behaving in a particular situation.
 adj. Something that is `dazzling` is very impressive or beautiful.
+
+## 2022/11/18
+
+In all, she has 8 `costume` changes.
+The carpenter's hands become `coarse` due to years of woodworking.
+In the rainforest, there are birds of every `hue`.
+Since then, I have lived along and `immersed` myself in my career.
+There are something about Pearl that `mesmerised` her.
+The school `motto` is: 'Duty,Honour,Country'
+We `enrolled` in the army.
+If someone is a `part-time` worker or has a `part-time` job, they work for only part of each day or week.
+n.[U] `Timber` is wood that is used for building houses and making furniture. You can also refer to trees that are grown for this purpose as timber.
