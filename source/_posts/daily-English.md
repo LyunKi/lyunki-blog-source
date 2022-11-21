@@ -757,3 +757,9 @@ The school `motto` is: 'Duty,Honour,Country'
 We `enrolled` in the army.
 If someone is a `part-time` worker or has a `part-time` job, they work for only part of each day or week.
 n.[U] `Timber` is wood that is used for building houses and making furniture. You can also refer to trees that are grown for this purpose as timber.
+
+## 2022/11/21
+
+We will do everything to `preserve` peace.
+The `prevalent` view is that the interest rates will fall.
+v. When a new leader is `inaugurated`, they are formally given their new position at an official ceremony.
