@@ -763,3 +763,19 @@ n.[U] `Timber` is wood that is used for building houses and making furniture. Yo
 We will do everything to `preserve` peace.
 The `prevalent` view is that the interest rates will fall.
 v. When a new leader is `inaugurated`, they are formally given their new position at an official ceremony.
+
+## 2022/11/23
+
+The leaves were dark and `glossy`.
+The new president will be `inaugurated` on January 20.
+She had not even `reproached` him for breaking his promise.
+Those who decided to remain `neutral` in the struggle now found themselves required to take sides.
+He pointed to a duffle bag.'That's my `stuiff`'.
+In Hawaii, large `gourds` can be worn like masks.
+He is taking a `botany` class.
+n.[C] A `skyscraper` is a very tall building in a city.
+n.[VAR] A `reunion` is a meeting between people who have been separated for some time.
+v. When you `designate` someone or something as a particular thing, you formally give them the description or name.
+v. If you `resort` a course of action that you don't really approve of, you adopt it because you cannot see any other way of achieving what you want.
+v. When an organization or person `diversifies` into other things, or diversifies their range of something, they increase the variety of things that they do or make.
+n.[C] The `peak` of a process or an activity is the point at which it is at its strongest, most successful, or most fully developed.
