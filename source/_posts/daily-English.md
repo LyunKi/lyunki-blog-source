@@ -779,3 +779,13 @@ v. When you `designate` someone or something as a particular thing, you formally
 v. If you `resort` a course of action that you don't really approve of, you adopt it because you cannot see any other way of achieving what you want.
 v. When an organization or person `diversifies` into other things, or diversifies their range of something, they increase the variety of things that they do or make.
 n.[C] The `peak` of a process or an activity is the point at which it is at its strongest, most successful, or most fully developed.
+
+
+## 2022/11/24
+I felt she found me boring and `dull`.
+The latter is a small `rodent` that lived in that island
+... a rose `motif`
+new strains of crops that can withstand `aird` conditions.
+v. When people `domesticate` wild animals or plants, they bring them under control and use them to produce food or as pets.
+n.[U] `Maize` is a tall plant which produces long object covered with yellow seeds called sweetcorn. It is often grown as a food crop.
+n.[C] A `grain` of wheat, rice, or other cereal crop is a seed from it.
