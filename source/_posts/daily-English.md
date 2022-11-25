@@ -780,8 +780,8 @@ v. If you `resort` a course of action that you don't really approve of, you adop
 v. When an organization or person `diversifies` into other things, or diversifies their range of something, they increase the variety of things that they do or make.
 n.[C] The `peak` of a process or an activity is the point at which it is at its strongest, most successful, or most fully developed.
 
-
 ## 2022/11/24
+
 I felt she found me boring and `dull`.
 The latter is a small `rodent` that lived in that island
 ... a rose `motif`
@@ -789,3 +789,21 @@ new strains of crops that can withstand `aird` conditions.
 v. When people `domesticate` wild animals or plants, they bring them under control and use them to produce food or as pets.
 n.[U] `Maize` is a tall plant which produces long object covered with yellow seeds called sweetcorn. It is often grown as a food crop.
 n.[C] A `grain` of wheat, rice, or other cereal crop is a seed from it.
+
+## 2022/11/25
+
+He showed her to a small `cabin`.
+A gallery of pictures `depicting` Nelson's most famous battles.
+Put the soap and water in a pan, and leave to stand until they hav `blended`.
+Coffee and newspaper are the part of my father's morning `ritual`.
+I'll get Venner to `brew` some tea.
+The school's motto is 'Duty, Honour, Country'.
+...vast fields of `maize`.
+...the international ban on the sales of `ivory`.
+n.[C]A `rite` is a traditional ceremony that is carried out by a particular group or with in a particular society.
+v. If you `speculate` about something, you make guess about its nature or identify, or about what might happen.
+n.[VAR]`Yeast` is a kind of fungus which is used to make bread rise, and in making alcholic drinks such as beer.
+n.[VAR] `Starch` is a substance that is found in foods such as berad, potatoes, pasta, and rice and gives you energy.
+n.[C] Your `skeleton` is the framework of bones in your body.
+n.[C] A `mount` of something is a large rounded pile of it.
+n.[C] A `microorganism` is a very small living thing which you can only see if you use a microscope.
