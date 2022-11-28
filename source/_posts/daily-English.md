@@ -807,3 +807,13 @@ n.[VAR] `Starch` is a substance that is found in foods such as berad, potatoes, 
 n.[C] Your `skeleton` is the framework of bones in your body.
 n.[C] A `mount` of something is a large rounded pile of it.
 n.[C] A `microorganism` is a very small living thing which you can only see if you use a microscope.
+
+## 2022/11/28
+
+... the history `curriculum`
+Most traditional societies have tradition `rite` at puberty.
+If you want to lose weight, you have to avoid fatty foods and `starches`.
+She `facinated` him, both on and off stage.
+n.[C] An `explosion` is a sudden, violent burst of energy, for example one caused by a bomb.
+adj. You use `so-called` to indicate that you think a word or expression used to describe something or someon is in fact wrong.
+n.[C] A `neutron` is a atomic particle that has no electrical charge.
