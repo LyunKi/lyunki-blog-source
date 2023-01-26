@@ -19,3 +19,5 @@ title: vscode 配置远程登录免密码
    ![](/images/vscode/2.png)
 5. 在配置文件中配置 IdentiyFile 路径
    ![](/images/vscode/3.png)
+
+这时，在尝试登录远程服务器就不再需要密码了
