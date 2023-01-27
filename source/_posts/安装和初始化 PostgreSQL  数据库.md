@@ -1,5 +1,5 @@
 ---
-title: 服务器安装和初始化 PostgreSQL  数据库
+title: 安装和初始化 PostgreSQL  数据库
 ---
 
 近期，想在自己的服务器上进行生产环境的搭建，数据库选用的是 PostgreSQL  这里记录一下数据库的搭建流程 <!-- more -->
