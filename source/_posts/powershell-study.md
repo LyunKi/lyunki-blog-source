@@ -55,3 +55,22 @@ function rm([string]$path){
     remove-item $path
 }
 ```
+
+### 设置 windows 文件夹大小写敏感
+**要求管理员模式下运行**
+查询文件是否大小写敏感
+```powershell
+fsutil.exe file queryCaseSensitiveInfo <path>
+
+```
+
+设置文件大小写敏感
+```powershell
+fsutil.exe file setCaseSensitiveInfo <path> enable
+```
+
+设置文件大小写不敏感
+```powershell
+fsutil.exe file setCaseSensitiveInfo <path> disable
+```
+
