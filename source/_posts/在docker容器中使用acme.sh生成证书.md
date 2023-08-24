@@ -33,7 +33,11 @@ curl https://get.acme.sh | sh -s email=xxx@gmail.com
 遇到了一个 3.0.7 版本的坑，需要指定 acme.sh 版本
 
 ```shell
-~/.acme.sh/acme.sh --upgrade --version x.x.x
+cp -r ~/.acme.sh ~/.acme.sh.backup
+wget https://github.com/acmesh-official/acme.sh/archive/refs/tags/v3.0.6.tar.gz
+tar -zxvf v3.0.6.tar.gz
+cd acme.sh-3.0.6
+./acme.sh --install
 ```
 
 ## 自动更新和关闭自动更新
