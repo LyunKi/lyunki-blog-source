@@ -30,7 +30,7 @@ curl https://get.acme.sh | sh -s email=xxx@gmail.com
 
 ## 指定 acme.sh 版本
 
-遇到了一个 3.0.7 版本的坑，需要指定 acme.sh 版本
+遇到了一个 3.0.7 版本的坑，需要指定 acme.sh 版本 (也可以直接参考链接修改 acme.sh 文件 https://github.com/acmesh-official/acme.sh/pull/4749/commits/13d31ecb7f195f623a9a4deff9c2eb3fc6aecaeb)
 
 ```shell
 cp -r ~/.acme.sh ~/.acme.sh.backup
